@@ -1,5 +1,4 @@
 /**
- * Name: Saman Zarei
  * This program is a simulator of covid treatment.The nucleobases in covid are
  * Adenine, Guanine, Thymine, Cytosine, Uracil. What this program does, is
  * breaking every k number of nucleobases in chunk size of k and reverse them.
@@ -10,8 +9,7 @@ import java.util.Scanner;
 /**
  * This class has designed to break down every k number of nucleobases in
  * chunk size of k and reverse them.
- * Adenine(A), Thymine(T), Cytosine(C), Guanine(G),
- * @author Saman Zarei
+ * Adenine(A), Thymine(T), Cytosine(C), Guanine(G)
  */
 public class CovidMutation{
 
